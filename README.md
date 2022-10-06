@@ -1,1 +1,1 @@
-README for monty, Stacks queues by Aniekan Titus
+README for monty,The goal of this project is to create an interpreter for Monty ByteCodes files.
